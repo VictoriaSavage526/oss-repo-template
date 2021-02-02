@@ -22,4 +22,19 @@ Man Tree Screenshot
 
 ![Man Tree Screenshot](https://github.com/VictoriaSavage526/oss-repo-template/blob/master/Man_tree.JPG)
 
-## Regex
+## 4. Regex
+
+# Problem 8
+
+
+![Problem 8 Screenshot](https://github.com/VictoriaSavage526/oss-repo-template/blob/master/Man_tree.JPG)
+
+# Regex Crossword
+
+![Regex Crossword](https://github.com/VictoriaSavage526/oss-repo-template/blob/master/Regex_Crossword.JPG)
+
+## 5. Blockly
+
+# I finished problem 10!
+
+![Blockly](https://github.com/VictoriaSavage526/oss-repo-template/blob/master/Blockly.JPG)
